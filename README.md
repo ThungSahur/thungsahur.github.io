@@ -1,2 +1,2 @@
-chomik
+[chomik](https://github.com/ThungSahur/thungsahur.github.io/blob/main/plugin.video.chomikuj.zip)
 CHO
